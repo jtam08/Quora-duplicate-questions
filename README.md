@@ -3,4 +3,4 @@
 ___
 
 #### April 10, 2022
-#### * Added dataset, and preliminary ML model and neural network
+* Added dataset, and jupyter notebook
